@@ -46,7 +46,7 @@ while(true) {
 	C.repeat()
 }
 ```
-![zenuml1]("/images/zenuml1.png")
+![zenuml1](/images/zenuml1.png)
 
 ## example
 
@@ -60,7 +60,9 @@ response = BookControleer.getBook(id) {
 	response = createResponse(book)
 }
 ```
-![zenuml2]("/images/zenmul1.png")
+
+![zenuml2](/images/zenmul1.png)
+
 
 ## zenuml地址
 
