@@ -61,7 +61,7 @@ response = BookControleer.getBook(id) {
 }
 ```
 
-![zenuml2](/images/zenmul1.png)
+![zenuml2](/images/zenuml1.png)
 
 
 ## zenuml地址
